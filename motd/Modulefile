@@ -1,0 +1,12 @@
+name    'syone-motd'
+version '1.0.0'
+source 'jeffmccune-motd'
+author 'Istvan Cebrian <istvan.cebrian@syone.com>'
+license 'GPL'
+summary 'Manages the message of the day'
+description 'Places information about the host in the message of the day.'
+project_page 'http://www.syone.com'
+
+## Add dependencies, if any:
+# dependency 'username/name', '>= 1.2.0'
+# vim:ft=ruby
