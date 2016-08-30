@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "dependencies": [
+
+  ],
+  "summary": "Configure sistema de autologin",
+  "source": "N/A",
+  "author": "Syone",
+  "name": "syone-autologin",
+  "project_page": "",
+  "license": "GPL"
+}

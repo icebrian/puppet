@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "dependencies": [
+
+  ],
+  "summary": "Possiblita edição de httpd.conf para colocação e faz reload a serviço.",
+  "source": "N/A",
+  "author": "Syone",
+  "name": "syone-httpdconfedit",
+  "project_page": "",
+  "license": "GPL"
+}

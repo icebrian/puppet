@@ -1,0 +1,2 @@
+meo	ALL=(root)NOPASSWD:/sbin/shutdown
+meo	ALL=(root)NOPASSWD:/sbin/reboot

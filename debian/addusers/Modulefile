@@ -1,0 +1,12 @@
+name    'syone-addusers'
+version '1.1.0'
+source 'syone-addusers'
+author 'Istvan Cebrian <istvan.cebrian@syone.com>'
+license 'GPL'
+summary 'Adds users'
+description 'Adds users'
+project_page 'http://www.syone.com'
+
+## Add dependencies, if any:
+# dependency 'username/name', '>= 1.2.0'
+# vim:ft=ruby

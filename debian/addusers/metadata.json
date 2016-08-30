@@ -1,0 +1,16 @@
+{
+  "version": "1.1.0",
+  "dependencies": [
+
+  ],
+  "types": [
+
+  ],
+  "description": "Adds users.",
+  "summary": "Adds users",
+  "source": "syone-addusers",
+  "author": "Istvan Cebrian <istvan.cebrian@syone.com>",
+  "name": "syone-addusers",
+  "project_page": "http://www.syone.com",
+  "license": "GPL"
+}

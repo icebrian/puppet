@@ -1,0 +1,12 @@
+{
+  "version": "1.1.0",
+  "dependencies": [
+
+  ],
+  "summary": "Garante que openbox esta instalado e configurado.",
+  "source": "N/A",
+  "author": "Syone",
+  "name": "syone-openbox",
+  "project_page": "",
+  "license": "GPL"
+}

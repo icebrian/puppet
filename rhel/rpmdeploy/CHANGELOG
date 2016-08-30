@@ -1,0 +1,10 @@
+0.0.2 Istvan Cebrian <istvan.cebrian@syone.com> 2014-12-19
+- Code and directory/sample's clean-up
+- Improved parameter names & comments on main class
+- Removed custom facter 'ambiente' (changed in favour of puppet envrionment)
+- Created httpd & sshd wrapper class
+- Added service checks via boolean parameters (defaults to false)
+- Added package declaration check
+
+0.0.1 Istvan Cebrian <istvan.cebrian@syone.com> 2014-12-18
+- Initial release

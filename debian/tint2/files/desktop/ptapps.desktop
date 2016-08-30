@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=PTApps
+Categories=Application;
+Icon=/usr/share/pixmaps/pt_logo.png
+TryExec=chromium --app=https://cloudapps.telecom.pt
+Exec=chromium --app=https://cloudapps.telecom.pt

@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "dependencies": [
+    {"name":"puppetlabs/stdlib","version_requirement":">= 3.2.0 < 5.0.0"}
+  ],
+  "types": [],
+  "description": "Automatically generates and sets hostname while also updating hosts file.",
+  "summary": "",
+  "source": "",
+  "author": "Istvan Cebrian <istvan.cebrian@syone.com>",
+  "name": "syone-hostname",
+  "project_page": "http://www.syone.com",
+  "license": "GPL"
+}

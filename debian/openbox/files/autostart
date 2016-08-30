@@ -1,0 +1,31 @@
+#
+# These things are run when an Openbox X Session is started.
+# You may place a similar script in $HOME/.config/openbox/autostart
+# to run user-specific things.
+#
+
+# If you want to use GNOME config tools...
+#
+#if test -x /usr/lib/openbox/gnome-settings-daemon >/dev/null; then
+# /usr/lib/openbox/gnome-settings-daemon &
+#elif which gnome-settings-daemon >/dev/null; then
+# gnome-settings-daemon &
+#fi
+
+# If you want to use XFCE config tools...
+#
+#xfce-mcs-manager &
+
+# Auto clear Chrome downloads
+rm -f /home/meo/Downloads/*
+
+# Background
+nitrogen --restore &
+
+# Panels
+tint2 &
+tint2 -c $HOME/.config/tint2/tint2rc.rightlaunchers &
+
+#sleep 5 &
+#chromium --app=http://10.163.168.153/Citrix/XenApp &
+chromium --app=https://cloudapps.telecom.pt &

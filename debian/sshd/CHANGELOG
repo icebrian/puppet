@@ -1,0 +1,10 @@
+1.2.0 Istvan Cebrian <istvan.cebrian@syone.com> 2015-05-26
+- Added Debian
+
+1.1.0 Istvan Cebrian <istvan.cebrian@syone.com> 2015-05-15
+- Logic change in order to allow for other distributions such
+  as Debian via CASE statements based on OS facter.
+- Banner updated to suite PT008 project requirements
+
+1.0.0 Istvan Cebrian <istvan.cebrian@syone.com> 2014-12-17
+- Initial release

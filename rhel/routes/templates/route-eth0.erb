@@ -1,0 +1,25 @@
+## Routing to mng
+10.2.30.80/28 via <%= gateway %> dev eth0
+213.30.111.208 via <%= gateway %> dev eth0
+## Novo ctx Alfragide e Boavista
+212.18.178.128/26 via <%= gateway %> dev eth0
+212.18.178.192/26 via <%= gateway %> dev eth0
+## ctx Extranet
+10.11.26.0/24 via <%= gateway %> dev eth0
+10.11.30.0/24 via <%= gateway %> dev eth0
+83.174.19.192/28 via <%= gateway %> dev eth0
+## routing to logcollector1
+10.2.33.16/28 via <%= gateway %> dev eth0
+## routing O&M Network
+10.2.0.0/16 via <%= gateway %> dev eth0
+10.128.0.0/16 via <%= gateway %> dev eth0
+#Routing serv backups
+212.18.189.96/29 via <%= gateway %> dev eth0
+212.18.189.104/29 via <%= gateway %> dev eth0
+## routing to OVO
+213.30.111.212 via <%= gateway %> dev eth0
+## routing to netbackup
+212.18.189.64/28 via <%= gateway %> dev eth0
+## routing to mon
+213.30.90.224/28 via <%= gateway %> dev eth0
+

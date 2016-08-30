@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "dependencies": [],
+  "summary": "Configura Raspberry Pi",
+  "source": "N/A",
+  "author": "Syone",
+  "name": "syone-rpiconfig",
+  "project_page": "",
+  "license": "GPL"
+}

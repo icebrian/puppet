@@ -1,0 +1,11 @@
+name    'syone-issue'
+version '0.0.1'
+source 'syone-issue'
+author 'Syone'
+license 'Apache'
+summary ''
+project_page 'N/A'
+
+## Add dependencies, if any:
+# dependency 'username/name', '>= 1.2.0'
+# vim:ft=ruby

@@ -1,0 +1,6 @@
+1.1.0 Istvan Cebrian <istvan.cebrian@syone.com> 2015-05-26
+- Added secondary groups to user
+- Added sudoers configurations
+
+1.0.0 Istvan Cebrian <istvan.cebrian@syone.com> 2015-05-15
+- Initial release

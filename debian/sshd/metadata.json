@@ -1,0 +1,12 @@
+{
+  "version": "1.2.0",
+  "dependencies": [
+
+  ],
+  "summary": "Garante que sshd esta instalado e a correr, coloca ficheiro sshd_config.",
+  "source": "N/A",
+  "author": "Syone",
+  "name": "syone-sshd",
+  "project_page": "",
+  "license": "GPL"
+}

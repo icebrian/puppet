@@ -1,0 +1,12 @@
+{
+  "version": "0.0.4",
+  "dependencies": [
+
+  ],
+  "summary": "Garante que httpd esta instalado e a correr, coloca ficheiro httpd.conf de acordo com ambiente e faz reload a serviço.",
+  "source": "N/A",
+  "author": "Syone",
+  "name": "syone-httpdconf",
+  "project_page": "",
+  "license": "GPL"
+}

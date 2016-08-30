@@ -1,0 +1,12 @@
+{
+  "version": "0.0.4",
+  "dependencies": [
+
+  ],
+  "summary": "Coloca o ficheiro route-eth0 standard com a substituição da GW para a maquina local.",
+  "source": "N/A",
+  "author": "Syone",
+  "name": "syone-routes",
+  "project_page": "",
+  "license": "GPL"
+}

@@ -1,0 +1,11 @@
+name    'syone-routes'
+version '0.0.1'
+source 'syone-routes'
+author 'Syone'
+license 'Apache'
+summary 'Coloca o ficheiro route-eth0 standard com a substituição da GW para a maquina local.'
+project_page 'N/A'
+
+## Add dependencies, if any:
+# dependency 'username/name', '>= 1.2.0'
+# vim:ft=ruby

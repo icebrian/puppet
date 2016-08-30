@@ -1,0 +1,12 @@
+{
+  "name": "syone-users",
+  "version": "0.0.1",
+  "author": "Syone",
+  "summary": "Users Modules",
+  "license": "GPL",
+  "source": "http://213.30.90.234/scm/git/Puppet_LIT/syone-users/",
+  "project_page": "http://213.30.90.234/scm/git/Puppet_LIT/syone-users/",
+  "issues_url": "https://docs.puppetlabs.com/puppet/latest/reference/modules_publishing.html",
+  "requirements": [],
+  "summary": "Users Module."
+}

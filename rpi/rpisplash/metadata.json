@@ -1,0 +1,10 @@
+{
+  "version": "1.1.0",
+  "dependencies": [],
+  "summary": "Configura Raspberry Pi Splash Screen",
+  "source": "N/A",
+  "author": "Syone",
+  "name": "syone-rpisplash",
+  "project_page": "",
+  "license": "GPL"
+}

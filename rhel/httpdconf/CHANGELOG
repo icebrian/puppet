@@ -1,0 +1,17 @@
+0.0.4 Istvan Cebrian <istvan.cebrian@syone.com> 2014-12-19
+- Added input parameter $ambiente which defaults to facter value
+  if no value provided via an override.
+
+0.0.3 Istvan Cebrian <istvan.cebrian@syone.com> 2014-12-19
+- Improved comments and description
+- Added example wrapper class
+- Changed default version to "installed"
+- Removed "spec" dir
+
+0.0.2 Istvan Cebrian <istvan.cebrian@syone.com> 2014-12-18
+- Added environments configuration files
+- Added automatic application of config file based on environment
+- Added possiblity to select version (latest or specific version)
+
+0.0.1 Istvan Cebrian <istvan.cebrian@syone.com> 2014-12-17
+- Initial release

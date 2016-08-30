@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=Reboot
+Categories=Application;
+Icon=/usr/share/pixmaps/refresh.png
+TryExec=sudo /usr/local/bin/refresh.sh
+Exec=sudo /usr/local/bin/refresh.sh

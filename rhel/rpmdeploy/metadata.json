@@ -1,0 +1,12 @@
+{
+  "version": "0.0.2",
+  "dependencies": [
+
+  ],
+  "summary": "Instala RPM, define ambiente e aplica config files.",
+  "source": "N/A",
+  "author": "Syone",
+  "name": "syone-rpmdeploy",
+  "project_page": "",
+  "license": "GPL"
+}
