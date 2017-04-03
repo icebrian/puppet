@@ -9,8 +9,8 @@
   "description": "Places information about the host in the message of the day.",
   "summary": "Manages the message of the day",
   "source": "jeffmccune-motd",
-  "author": "Istvan Cebrian <istvan.cebrian@syone.com>",
-  "name": "syone-motd",
-  "project_page": "http://www.syone.com",
+  "author": "Istvan Cebrian <istvan.cebrian@microsoft.com>",
+  "name": "icebrian-motd",
+  "project_page": "https://github.com/icebrian/puppet/tree/master/rhel/motd",
   "license": "GPL"
 }

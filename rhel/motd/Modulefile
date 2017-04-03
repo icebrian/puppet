@@ -1,11 +1,11 @@
-name    'syone-motd'
+name    'icebrian-motd'
 version '1.0.0'
 source 'jeffmccune-motd'
-author 'Istvan Cebrian <istvan.cebrian@syone.com>'
+author 'Istvan Cebrian <istvan.cebrian@microsoft.com>'
 license 'GPL'
 summary 'Manages the message of the day'
 description 'Places information about the host in the message of the day.'
-project_page 'http://www.syone.com'
+project_page 'https://github.com/icebrian/puppet/tree/master/rhel/motd'
 
 ## Add dependencies, if any:
 # dependency 'username/name', '>= 1.2.0'

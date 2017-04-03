@@ -4,8 +4,7 @@ This is a simple Puppet module to manage the Message of the day.
 
 # Author #
 
- * Istvan Cebrian <istvan.cebrian@syone.com.com>
- * [Syone](http://www.syone.com)
+ * Istvan Cebrian <istvan.cebrian@microsoft.com>
 
 # Sample #
 
